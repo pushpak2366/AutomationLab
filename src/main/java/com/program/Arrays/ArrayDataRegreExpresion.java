@@ -13,7 +13,7 @@ public class ArrayDataRegreExpresion {
 		   
 			if(newData==data)
 			{
-				System.out.println("hel€lo pushpak wani");
+				System.out.println("hello pushpak wani");
 				arrList.add(newData);
 			}
 			else
